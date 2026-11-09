@@ -1,4 +1,4 @@
-# 🎫 Gestion des Tickets — Épreuve rattrapage (Module Ticket)
+# 🎫 Gestion des Tickets (Module Ticket)
 
 Application full stack de gestion de tickets : **Spring Boot + PostgreSQL (Docker) + Angular**.
 Épreuve de rattrapage KFOKAM48 — Batch 2, Phase 3.
